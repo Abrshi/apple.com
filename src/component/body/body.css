@@ -1,0 +1,40 @@
+.iPhone15Pro{
+    background-image: url(../../imag/imgs/iphone15pro/hero_iphone15pro__i70z9oz3hj2i_largetall_2x.jpg);
+    height: 555px;
+    width: 100%;
+    padding-top: 80px;
+}
+.iPhone15{
+    background-image: url( ../../imag/imgs/iphone/hero_iphone15_announce__uuemlcwczn6u_large.jpg);
+}
+.WatchSeries{
+    background-image: url( ../../imag/imgs/watch/hero_apple_watch_series_9__x5wo4ptz2giu_large_2x.jpg);
+    height: 660px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    background-position: center;
+    padding-top: 20px;
+    background-size: cover;
+    /* margin-bottom: -25px; */
+}
+.WatchSeries>h2{
+margin-top: 400px;
+}
+.WatchSeries>h2>img{
+    width: 200px;
+}
+.WatchSeries>ul>li{
+    background-color: white;
+    width: auto;
+    height: 15px;
+    padding: 7px 0 15px 25px;
+    margin-right:20px ;
+    margin-top: 18px;
+    border-radius: 50px;
+    
+}
+.WatchSeries>ul>li>a{
+    color: black;
+    font-size: 15px;
+}

@@ -1,0 +1,59 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    margin: 1%;
+}
+.visonpro{
+    background-image: url(../../../imag/imgs/visonpro/visonpro.jpg);
+}
+.macbook{
+    background-image: url(../../../imag/imgs/mabbookair/makbookair.jpg);
+}
+.ipad{
+    background-image: url(../../../imag/imgs/ipad/ipad.jpg);
+}
+.airpad{
+    background-image: url(../../../imag/imgs/airpods/airpods.jpg);
+}
+.card{
+    background-image: url(../../../imag/imgs/applcard/visonpro.jpg);
+}
+.tradi{
+    background-image: url(../../../imag/imgs/iphone_tradein/iphone_tradein.jpg);
+}
+.visonpro , .macbook,.ipad,.airpad,.card,.tradi{
+    width: 99%;
+    height: 570px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* margin: 2% 1% 1% 2%; */
+}
+.visonpro>div{
+    margin-top: 370px;
+}
+.colerfull{
+    background: linear-gradient(90deg, #cb1333, #de45c1, #b96be2, #84a9e0, #23d43b, #d0bb08, #eb6d17);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    display: inline-block;
+}
+.airpad>div>h2{
+    color: white;
+}
+.airpad>div>h3{
+    color: white;
+}
+.nowplaying{
+    color: white;
+}@media (max-width: 768px) {
+    /* Your CSS rules for screen sizes between 425px and 768px */
+  }
+  
+@media (max-width: 425px) {
+   .flex{
+    flex-direction: column;
+   }
+  }
+  

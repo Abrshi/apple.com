@@ -1,0 +1,45 @@
+.inerdiv1{
+     height: 540px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-position: center;
+    padding-top: 50px;
+    margin-bottom: 1%;
+    max-width: 2024px;
+}
+.propsh1{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.propsh2{
+  color:   rgb(255, 255, 255);
+  font-size: 25px;
+  line-height: 1.10722;
+  font-weight: 400;
+  letter-spacing: .004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  margin-top: 6px;
+}
+.props-ul{
+  padding-top: 10px;
+  /* width: 200px; */
+  display: flex;
+  padding-left:42.5% ;
+}
+.props-ul>li>Link{
+  padding-top: 7px;
+  font-size:20px;
+  padding-right:30px;
+  color: #268CEE;
+}
+li{
+  list-style: none;
+}
+.iPhone15>h3 ,.iPhone15>h2{
+ color: black;
+}
