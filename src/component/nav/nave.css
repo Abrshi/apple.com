@@ -82,6 +82,10 @@
     }
     .toogler{
         display: block;
+        position: absolute;
+        top: 10px; 
+        left: 94%;
+        z-index: 1000;
     }
     .block>li>a{
         font-size: xx-large;
